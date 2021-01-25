@@ -17,3 +17,8 @@ Chess Game coded in an OOP fashion. With only CLI currently.
     * A mistake has been made when trying to move pieces
     * A player is in check
     * A player is in checkmate and the game is over
+
+### Special Moves
+* Promotion (Not included)
+* **En Passant**
+* **Castling**
